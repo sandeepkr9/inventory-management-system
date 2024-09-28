@@ -1,0 +1,30 @@
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Django files
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Environment directories
+env/
+venv/
+ENV/
+.venv/
+.idea/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other
+*.swp
+*.swo
